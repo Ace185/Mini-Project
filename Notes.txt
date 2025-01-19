@@ -6,4 +6,11 @@ Basic Terminal Commands :-
 
 Basic Git Commands :-
 1. Clone -> Clones the Repository from GitHub to PC or vice cersa.
-status -> Shows the current status of all files in folder
+2. status -> Shows the current status of all files in folder
+3. add -> adds the changes to GitHub
+4. commits -> commits the changelaptops to GitHub
+5. push -> upload local Repository content to remote Repository
+
+Facts :-
+1. Local means Repositories on our pc or laptop
+2. Remote means Repositories on our GitHub
