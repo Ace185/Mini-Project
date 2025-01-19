@@ -9,7 +9,7 @@ Basic Git Commands :-
 1. git Clone -> Clones the Repository from GitHub to PC or vice cersa.
 2. git status -> Shows the current status of all files in folder
 3. git add -> adds the changes to GitHub
-          Write (add .) to add all at once.
+              Write (add .) to add all at once.
 4. git commits -> commits the change to GitHub
 5. git init -> it adds the to the current folder
 6. git remote add origin -> adds your folder to GitHub Repository
@@ -40,7 +40,6 @@ Undoing Changes :-
 Facts :-
 1. Local means Repositories on our pc or laptop
 2. Remote means Repositories on our GitHub
-
 
 Miscellaneous Topics :-
 1. Resolving Merge Conflicts
