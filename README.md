@@ -1,2 +1,2 @@
 # Mini-Project
-This repository consist of many small and basic coding projects
+This Repository consist of many Small and Basic Coding Projects.
