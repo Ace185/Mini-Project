@@ -3,14 +3,45 @@ Basic Terminal Commands :-
 2. ls -> List of files or folders
 3.clear -> Clear Terminal
 4. -a -> Shows Hidden Files
+5. mkdir -> Used to Create New Folder
 
 Basic Git Commands :-
-1. Clone -> Clones the Repository from GitHub to PC or vice cersa.
-2. status -> Shows the current status of all files in folder
-3. add -> adds the changes to GitHub
-4. commits -> commits the changelaptops to GitHub
-5. push -> upload local Repository content to remote Repository
+1. git Clone -> Clones the Repository from GitHub to PC or vice cersa.
+2. git status -> Shows the current status of all files in folder
+3. git add -> adds the changes to GitHub
+          Write (add .) to add all at once.
+4. git commits -> commits the change to GitHub
+5. git init -> it adds the to the current folder
+6. git remote add origin -> adds your folder to GitHub Repository
+7. get remote -v -> to verify remote
+8. git log -> to check all the previous commits
+
+Branch Git Commands :-
+1. git branch -> to check branch
+2. git branch -M main -> to rename the branch
+3. git checkout -> changes the branch
+4. git checkout -b -> creates new branch
+4. git checkout -d -> deletes the branch
+
+Merge Git Commands :-
+1. git diff -> it compares the current and the given branch
+2. git merge -> it merges the curent and the given branch
+
+Pull and Push Commands :-
+1. git push origin main -> upload local Repository content to remote Repository
+2. git pull origin main -> downloads the remote Repository to local pc.
+
+Undoing Changes :-
+1. git reset -> If you have mistakenly added a change, it can reset that
+2. git reset HEAD~1 -> If you have mistakenly commited a change , it can undo last change
+3. git reset [Commit Hash] -> resets the commits which are after the provided commit hash
+4. git reset --hard [Commit Hash] -> resets the commits and removes the changes in vs code
 
 Facts :-
 1. Local means Repositories on our pc or laptop
 2. Remote means Repositories on our GitHub
+
+
+Miscellaneous Topics :-
+1. Resolving Merge Conflicts
+2. Pull Request
