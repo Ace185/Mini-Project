@@ -6,3 +6,4 @@ Basic Terminal Commands :-
 
 Basic Git Commands :-
 1. Clone -> Clones the Repository from GitHub to PC or vice cersa.
+status -> Shows the current status of all files in folder
