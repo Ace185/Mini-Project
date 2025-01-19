@@ -1,0 +1,8 @@
+Basic Terminal Commands :-
+1. cd -> Change Directory
+2. ls -> List of files or folders
+3.clear -> Clear Terminal
+4. -a -> Shows Hidden Files
+
+Basic Git Commands :-
+1. Clone -> Clones the Repository from GitHub to PC or vice cersa.
